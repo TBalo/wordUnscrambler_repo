@@ -40,4 +40,4 @@ Proceed to unscramble as done manually above.
 
 Credit goes to Avetis Ghukasyan, Senior Full Stack Web Developer. His course on Udemy, an extensive hours of C# training on building applications has been helpful. Please see video link below
 
-[UDEMY COURSE] (https://www.udemy.com/course/learn-csharp-by-building-applications/learn/lecture/)
+[LECTURE] (https://www.udemy.com/course/learn-csharp-by-building-applications/learn/lecture/)
