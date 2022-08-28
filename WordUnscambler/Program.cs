@@ -99,30 +99,6 @@ namespace WordUnscambler
             {
                 Console.WriteLine(Constants.MatchNotFound);
             }
-
-
-            //    //UNDERSTANDING POLYMORPHISM 
-            //    //Family family = new Family() { stateOfOrigin = "Kwara", surname = "Balogun"};
-            //    //Son son = new Son() { stateOfOrigin = "Kwara", surname = "Balogun", firstName = "Tolulope"};
-            //    //Daughter daughter = new Daughter() { stateOfOrigin = "Kwara", surname = "Balogun", firstName = "Kemisola"};
-
-            //    //Console.WriteLine(family.GetFamilyDetails());
-            //    //Console.WriteLine(son.GetFamilyDetails());
-            //    //Console.WriteLine(daughter.GetFamilyDetails());
-
-
-            //ARRAY
-            //CreateArray createArray = new CreateArray();
-            //createArray.ArrayMethod();
-
-            //ARRAYLIST
-            //arraylist generateAnArray = new arraylist();
-            //generateAnArray.ArrayListMethod();
-
-
-            //Making use of string join for an array
-            //string[] arrayOfStrings = { "here is some text", "here is some more text", "then some more text" };
-            //Console.WriteLine(InlineArray.Inline(arrayOfStrings));
         }
     }
 }
