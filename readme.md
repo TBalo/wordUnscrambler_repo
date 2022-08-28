@@ -3,7 +3,7 @@
 
 ## DESCRIPTION
 
-This is a wordUnscrambler console application written with c# on the .net core framework
+This is a wordUnscrambler console application written with c# on the .net core framework.
 It enables you confirm if a word has matches amongst a set of given words in a file.
 
 The file contains a specified list of words. A word provided by the user is entered from the interface to confirm if the word has a match of words found in the file then the program returns the list of matched words.
@@ -11,9 +11,9 @@ The file contains a specified list of words. A word provided by the user is ente
 ## WHAT YOU WOULD LEARN
 
 ```C#
-1. You would see how methods, classes are defined and instantiated.
-2. How to read the contents of a file and fetch it
-3. How to use foreach conditional statement, arrays etc.
+1) You would see how methods, classes are defined and instantiated.
+2) How to read the contents of a file and fetch it
+3) How to use foreach conditional statement, arrays etc.
 ```
 
 ## USAGE
