@@ -19,7 +19,7 @@ The file contains a specified list of words. A word provided by the user is ente
 ## USAGE
 
 You will receive a prompt stating below —
-Enter scrambled word(S) manually or as a File: F-file/M - manual
+Enter scrambled word(s) manually or as a File: F-file/M - manual
 
 From the CLI, type M or F to enter the words manually or as a File and press enter
 For a manual selection, you will receive below prompt
