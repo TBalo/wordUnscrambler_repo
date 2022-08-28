@@ -28,6 +28,7 @@ Enter the words
 For a sample word entered e.g more, the program would return below
 
 MATCH FOUND FOR more: rome
+
 MATCH FOUND FOR more: more
 
 For a file selection, input the text file path - here its defined as wordlist.txt. It is in the bin/debug directory of the project. 
