@@ -6,8 +6,7 @@ PROJECT TITLE - WORD UNSCRAMBLER
 DESCRIPTION
 ——————-----
 
-This is a simple wordUnscrambler written with c# on the .net core framework
-
+This is a wordUnscrambler console application written with c# on the .net core framework
 It enables you confirm if a word has matches amongst a set of given words in a file.
 
 The file contains a specified list of words. A word provided by the user is entered from the interface to confirm if the word has a match of words found in the file then the program returns the list of matched words.
